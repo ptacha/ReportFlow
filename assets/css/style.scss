@@ -1,0 +1,138 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+/* Highlight only the latest entry in the version history. */
+.markdown-body #version-history tbody tr {
+  background-color: #fff;
+}
+
+.markdown-body #version-history tbody tr:last-child {
+  background-color: #f6f8fa;
+}
+
+/* Let the introductory text wrap around the confirmed program logo. */
+.markdown-body .reportflow-intro {
+  display: flow-root;
+}
+
+.markdown-body .reportflow-logo {
+  float: left;
+  width: 180px;
+  height: auto;
+  margin: 0 24px 16px 0;
+}
+
+.markdown-body .reportflow-intro-clear {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .markdown-body .reportflow-logo {
+    float: none;
+    display: block;
+    width: 160px;
+    margin: 0 auto 20px;
+  }
+}
+
+/* Show the four task types in two equally sized columns. */
+.markdown-body #tasks-overview {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+.markdown-body #tasks-overview th,
+.markdown-body #tasks-overview td {
+  width: 50%;
+  vertical-align: top;
+  text-align: left;
+  overflow-wrap: anywhere;
+}
+
+.markdown-body #tasks-overview tr {
+  background-color: #fff;
+}
+
+.markdown-body #tasks-overview th {
+  background-color: #f6f8fa;
+  text-align: center;
+}
+
+.markdown-body #tasks-overview ul {
+  margin: 0;
+  padding-left: 1.25em;
+}
+
+/* Give the opening sentence more room on wide screens. */
+.markdown-body.container-lg {
+  max-width: 1200px;
+}
+
+/* Clickable release and feedback cards with captions below the icons. */
+.markdown-body .reportflow-link-cards {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  margin-bottom: 16px;
+}
+
+.markdown-body .reportflow-link-cards > p {
+  display: flex;
+  margin: 0;
+}
+
+.markdown-body .reportflow-link-card {
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  min-width: 0;
+  min-height: 156px;
+  padding: 22px 16px;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  background-color: #f6f8fa;
+  color: #24292f;
+  text-align: center;
+  text-decoration: none;
+}
+
+.markdown-body .reportflow-link-card img {
+  display: block;
+  width: 40px;
+  height: 40px;
+  background-color: transparent;
+}
+
+.markdown-body .reportflow-link-card br {
+  display: none;
+}
+
+.markdown-body .reportflow-link-card:hover {
+  text-decoration: none;
+}
+
+.markdown-body .reportflow-link-card:hover span {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.markdown-body .reportflow-downloads:hover {
+  border-color: #0969da;
+}
+
+.markdown-body .reportflow-feedback:hover {
+  border-color: #bd6900;
+}
+
+@media (max-width: 480px) {
+  .markdown-body .reportflow-link-cards {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
