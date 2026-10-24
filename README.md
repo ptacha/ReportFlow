@@ -3,7 +3,7 @@
 <p><strong>ReportFlow</strong> ist eine kostenlose Open-Source-Anwendung für Windows 10 und 11 zur automatisierten Datenverarbeitung und Berichterstellung.</p>
 
 <div class="reportflow-intro">
-<img class="reportflow-logo" src="assets/images/ptacha.png" alt="ReportFlow-Logo: blauer Faltvogel mit dem Schriftzug ptacha" width="180" height="180" align="left">
+<img class="reportflow-logo" src="assets/images/ptacha.png?v=ptacha-20261024" alt="ReportFlow-Logo: blauer Vogel mit dem Schriftzug ptacha" width="180" height="180" align="left">
 <p>Die zentrale Einheit der Anwendung ist ein <strong>Szenario</strong>, das aus mehreren <strong>Aufgaben</strong> besteht und sich speichern und erneut ausführen lässt. Dadurch werden aufeinanderfolgende Berichte nach denselben Regeln erstellt, ohne jedes Mal sich Mühe zu geben, den Aufwand selbst zu tragen.</p>
 <p>Zur besseren Übersicht sind die Aufgaben durch Linien miteinander verbunden und bilden ein grafisches Ablaufdiagramm. Die Filter zeigen eingehende und ausgehende Verbindungen (Eingehend, Ausgehend). Außerdem lassen sich Nebenlinien in den Hintergrund rücken (Nebenlinien) und ungenutzte Aufgaben hervorheben (Ungenutzt).</p>
 <p>Alle Prozesse laufen auf dem eigenen Rechner ab und benötigen keine Internetverbindung.</p>
