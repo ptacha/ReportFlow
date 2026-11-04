@@ -34,6 +34,7 @@
 <td>
 <ul>
 <li>Berechnung von Spaltenwerten</li>
+<li>Extraktion von Teiltexten</li>
 <li>Zusammenführung von Spaltenwerten</li>
 <li>Konvertierung von Spaltentypen</li>
 <li>Ersetzung von Werten in Spalten</li>
@@ -241,8 +242,12 @@
 <td><div align="justify">Улучшение баланса записей и обработки файлов Excel (в связи со специфическими функциями некоторых файлов). Введение подсветки неиспользуемых таблиц в полном объеме</div></td>
 </tr>
 <tr>
-<td><div align="justify"><strong>7.3.1.3 - по актуальную версию</strong></div></td>
+<td><div align="justify"><strong>7.3.1.3</strong></div></td>
 <td><div align="justify">Введение избранных сценариев, цветовой индикации выполняющихся сценариев и защиты от удаления сценариев с открытыми файлами</div></td>
+</tr>
+<tr>
+<td><div align="justify"><strong>7.3.1.4</strong></div></td>
+<td><div align="justify">Добавление новой задачи по извлечению частей текста по заданному параметру</div></td>
 </tr>
 </tbody></table>
 </div>
