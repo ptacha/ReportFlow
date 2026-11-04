@@ -250,5 +250,9 @@
 <td><div align="justify">7.3.1.4</div></td>
 <td><div align="justify">Добавление новой задачи по извлечению частей текста по заданному параметру</div></td>
 </tr>
+<tr>
+<td><div align="justify">7.3.2.0</div></td>
+<td><div align="justify">Улучшение перформанса при массовой обработки файлов (XML, ZIP, PDF, CSV)</div></td>
+</tr>
 </tbody></table>
 </div>
