@@ -85,8 +85,9 @@
 <th><div align="justify">Beschreibung</div></th>
 </tr>
 </thead>
-<tbody><tr>
-<td><div align="justify"><strong>0.1</strong></div></td>
+<tbody>
+<tr>
+<td><div align="justify">0.1</div></td>
 <td><div align="justify"><strong>Середина 2025 года. Внутренняя разработка.</strong> Отдельные независимые скрипты обработки данных без графического интерфейса. Управление осуществлялось через диалоги командной строки</div></td>
 </tr>
 <tr>
@@ -222,7 +223,7 @@
 <td><div align="justify">Расширение обработки PDF внутри ZIP-архивов, введение задачи объединения значений колонок</div></td>
 </tr>
 <tr>
-<td><div align="justify">7.2.0.2 Core</div></td>
+<td><div align="justify"><strong>7.2.0.2 Core</strong></div></td>
 <td><div align="justify">Увеличение скорости обработки по правилу 3-6-9 с динамическим контролем RAM (оперативной памяти) и CPU (процессора)</div></td>
 </tr>
 <tr>
@@ -242,11 +243,11 @@
 <td><div align="justify">Улучшение баланса записей и обработки файлов Excel (в связи со специфическими функциями некоторых файлов). Введение подсветки неиспользуемых таблиц в полном объеме</div></td>
 </tr>
 <tr>
-<td><div align="justify"><strong>7.3.1.3</strong></div></td>
-<td><div align="justify">Введение избранных сценариев, цветовой индикации выполняющихся сценариев и защиты от удаления сценариев с открытыми файлами</div></td>
+<td><div align="justify"><strong>7.3.1.3 Signatur</strong></div></td>
+<td><div align="justify">Введение избранных сценариев, цветовой индикации выполняющихся сценариев и защиты от удаления сценариев с открытыми файлами. Цифровая подпись официальных Windows-EXE сертификатом автора</div></td>
 </tr>
 <tr>
-<td><div align="justify"><strong>7.3.1.4</strong></div></td>
+<td><div align="justify">7.3.1.4</div></td>
 <td><div align="justify">Добавление новой задачи по извлечению частей текста по заданному параметру</div></td>
 </tr>
 </tbody></table>
