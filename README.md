@@ -66,6 +66,9 @@
 </tr>
 </tbody>
 </table>
+<h2>Leerzeichen in Werten</h2>
+<p>Textparameter, eigene Trennzeichen, Ersatzwerte, JOIN-Suffixe und eigene Datums-/Zeitmasken behalten führende und abschließende Leerzeichen. In den entsprechenden Eingabefeldern werden normale Leerzeichen gelb markiert. Listenwerte in Filtern und im Datenaudit werden einzeln bearbeitet; Leerzeichen und Satzzeichen gehören zum jeweiligen Wert. Bisher gespeicherte Datenaudit-Listen mit Semikolon behalten ihre bisherigen Vergleichswerte.</p>
+<p>Excel-Blattnamen und Dateinamen innerhalb eines ZIP-Archivs werden unverändert ausgewählt. Der Zeilenumbruch im Datenvorschaufenster verändert den Zelltext nicht. Die ausdrücklich gewählte Entfernung von Rand-Leerzeichen in Schlüsseln und die Typkonvertierung behalten ihre eigene Funktion.</p>
 <h2>Releases und Kontakt</h2>
 <div class="reportflow-link-cards">
 <p><a class="reportflow-link-card reportflow-downloads" href="https://github.com/ptacha/ReportFlow/releases" target="_blank" rel="noopener noreferrer"><img src="assets/icons/downloads.svg" alt="" width="40" height="40"><br><span>Downloads</span></a></p>
