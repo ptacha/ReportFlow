@@ -72,7 +72,7 @@
 <h2>Präsentation, Releases und Kontakt</h2>
 <div class="reportflow-link-cards">
 <p><a class="reportflow-link-card reportflow-presentation" href="https://docs.google.com/presentation/d/11303D-ucyDo1wfnxvIwxwx3oDudjN3XdIy2HPBCykRM/edit?usp=sharing" target="_blank" rel="noopener noreferrer" title="ReportFlow im Überblick (Version 7.3.1.3)"><img src="assets/icons/presentation.svg" alt="" width="40" height="40"><br><span>Präsentation<br><small class="reportflow-link-version">Version 7.3.1.3</small></span></a></p>
-<p><a class="reportflow-link-card reportflow-downloads" href="https://github.com/ptacha/ReportFlow/releases" target="_blank" rel="noopener noreferrer"><img src="assets/icons/downloads.svg" alt="" width="40" height="40"><br><span>Downloads</span></a></p>
+<p><a class="reportflow-link-card reportflow-downloads" href="https://github.com/ptacha/ReportFlow/releases/latest" target="_blank" rel="noopener noreferrer"><img src="assets/icons/downloads.svg" alt="" width="40" height="40"><br><span>Downloads</span></a></p>
 <p><a class="reportflow-link-card reportflow-feedback" href="https://github.com/ptacha/ReportFlow/issues" target="_blank" rel="noopener noreferrer"><img src="assets/icons/feedback.svg" alt="" width="40" height="40"><br><span>Fragen und Feedback</span></a></p>
 </div>
 <h2>Lizenz und Copyright</h2>
@@ -257,6 +257,10 @@
 <tr>
 <td><div align="justify">7.3.2.0</div></td>
 <td><div align="justify">Улучшение перформанса при массовой обработки файлов (XML, ZIP, PDF, CSV)</div></td>
+</tr>
+<tr>
+<td><div align="justify">7.3.2.1</div></td>
+<td><div align="justify">10.11.2026. Ускорение обработки файлов за счёт отключения автообновления терминала по умолчанию.</div></td>
 </tr>
 </tbody></table>
 </div>
